@@ -1,0 +1,184 @@
+{
+  "name": "PromptJo Frozen Demo Source of Truth",
+  "source_snapshot": "promptjo-home (2).zip",
+  "ui_reference": [
+    "Home",
+    "Explore",
+    "Single Prompt"
+  ],
+  "wordpress_plugin_included": false,
+  "wordpress_theme_included": false,
+  "file_count": 34,
+  "files": [
+    {
+      "path": "PROMPTOJO_FROZEN_SOURCE_OF_TRUTH.md",
+      "bytes": 1624,
+      "sha256": "0a395b8e268669ccd037f4045599a1d8475ae491576d710b7b3d19b2cb7f90d6"
+    },
+    {
+      "path": "bun.lock",
+      "bytes": 75415,
+      "sha256": "5dec38922b4f353f178cffc0247fade9116f6cf971221a94dfd59b8ed530c777"
+    },
+    {
+      "path": "index.html",
+      "bytes": 901,
+      "sha256": "02f2ddcdc58537c1fac04ea908047d088ab9b2994440ca86996096404de87f0f"
+    },
+    {
+      "path": "package.json",
+      "bytes": 838,
+      "sha256": "270549297a99fbf115ac126445a0699fcc21e889fca48b42c041fa5d23c0ec9d"
+    },
+    {
+      "path": "src/App.tsx",
+      "bytes": 30601,
+      "sha256": "99027bd89cd517e51ff363d97de75754847746c8a68ff1339214ecca44c12bb1"
+    },
+    {
+      "path": "src/components/BannerSlot.tsx",
+      "bytes": 5785,
+      "sha256": "9f7edb348064dd9eefe9cbafc407f3486c679d9f18fca5ec5dfd140b741cde6f"
+    },
+    {
+      "path": "src/components/CategorySection.tsx",
+      "bytes": 5205,
+      "sha256": "053b1fdfb1fc02554689deb283bcf8a9e98baa964a72dc0272f8a937cea67e82"
+    },
+    {
+      "path": "src/components/DynamicIcon.tsx",
+      "bytes": 471,
+      "sha256": "8913fbcde15930e435dbf813f1605112c56aa29d00541f2803b1b2b8d238e2c2"
+    },
+    {
+      "path": "src/components/ExplorePage.tsx",
+      "bytes": 66333,
+      "sha256": "79ff140a6115586ce7ba7f48e1c2ef31d2644df0d55e461d8c51f7df3be69cdc"
+    },
+    {
+      "path": "src/components/Footer.tsx",
+      "bytes": 5767,
+      "sha256": "47642adbfb504564578788d11cbd7fb50377be52751fe0ec118fd732716693f9"
+    },
+    {
+      "path": "src/components/Header.tsx",
+      "bytes": 10232,
+      "sha256": "32a4d8313e22dadfc720152e34dff23e8798e4f459af651b1f6f4928db3a7aed"
+    },
+    {
+      "path": "src/components/Hero.tsx",
+      "bytes": 18200,
+      "sha256": "4c0e22c8576d6a11aeae7b8755ce8febc3549d5c37d8f34526e9ec124526a72f"
+    },
+    {
+      "path": "src/components/MegaMenu.tsx",
+      "bytes": 8865,
+      "sha256": "4c5849b5ca83070adcf5aa0069bf5ba1f83f25cc091d81baf2fa267eb57623c3"
+    },
+    {
+      "path": "src/components/Newsletter.tsx",
+      "bytes": 3817,
+      "sha256": "4f0b9e97d933f8062112c1fe9f77930309a945ea84aae159479382b5ff7b2b6b"
+    },
+    {
+      "path": "src/components/PromptCard.tsx",
+      "bytes": 14713,
+      "sha256": "52a98d1e3f253d8eeebfe6e4883c1b8812a30ab5e42924b0841efab1fd3044e4"
+    },
+    {
+      "path": "src/components/PromptModal.tsx",
+      "bytes": 5608,
+      "sha256": "ca09b1ebcd1622bac7441a20764aa6f6b8f40335cf17765b14b8e996552f0431"
+    },
+    {
+      "path": "src/components/PromptSection.tsx",
+      "bytes": 4191,
+      "sha256": "4fd78bbfb3e3c052162f219a94b24acd4d36cab003f0a8951dac457ad021d10a"
+    },
+    {
+      "path": "src/components/SearchComponent.tsx",
+      "bytes": 2245,
+      "sha256": "f2654baa89342b1958e97f85fdbb8af5ecc1dcca27eff41288b51c007c43b33f"
+    },
+    {
+      "path": "src/components/SinglePromptPage.tsx",
+      "bytes": 97082,
+      "sha256": "777bf45d942e6aaafc85e340cdba525c8867e59b0b895d8ca3c463562ae97236"
+    },
+    {
+      "path": "src/components/SinglePromptVariantSwitcher.tsx",
+      "bytes": 18650,
+      "sha256": "088f74e8aa05831bba90ae082b71b777283fd5e239f3ba6eb4ede12a781da7f7"
+    },
+    {
+      "path": "src/components/Toast.tsx",
+      "bytes": 1462,
+      "sha256": "54e4092d2be73d1a5ee02888cde0f117eff3515697b49f12f77acdcefa0c43ff"
+    },
+    {
+      "path": "src/components/TrendingSearchBar.tsx",
+      "bytes": 4270,
+      "sha256": "3ead7cfd9e3454a5fb6ef4a270cd9ac329edeb6c80614f73eea29e312a8fb894"
+    },
+    {
+      "path": "src/components/UXLayoutInspector.tsx",
+      "bytes": 3764,
+      "sha256": "d1f2282c2eaca149baa27f4a734d66186ceb2c53768c9ae61c2a52a658b229ae"
+    },
+    {
+      "path": "src/components/VisualDimensionOverlay.tsx",
+      "bytes": 18791,
+      "sha256": "99dd9867cc9e5faea0e04f559499bd71df00bf54ced94ea673c6690cd7ce6d5f"
+    },
+    {
+      "path": "src/components/WordPressAdminFloatingToolbar.tsx",
+      "bytes": 3801,
+      "sha256": "bb18d8a1d9a91315cff2e8a2160d798fbdb64f02360b6d21406cce4de2c80eec"
+    },
+    {
+      "path": "src/components/WordPressAdminModal.tsx",
+      "bytes": 255826,
+      "sha256": "6d13d6271337afd8263203185c1dd7246688942645a266fee3abe4f82b2c5a37"
+    },
+    {
+      "path": "src/data/demoVariantsData.ts",
+      "bytes": 13232,
+      "sha256": "9e114a6f795eeb43e47b52df67f673dff7a0bb26d2f9451672d559f006b49614"
+    },
+    {
+      "path": "src/data/initialData.ts",
+      "bytes": 37401,
+      "sha256": "a80a58cab3621e0962c1c6bbabbf2beab5909352ee3818c7d5deaf417fa1494d"
+    },
+    {
+      "path": "src/data/singlePromptData.ts",
+      "bytes": 9679,
+      "sha256": "006147b4a585612170ce4a6c9346cb29daa768f333526eb686f4ab9a08653889"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 5000,
+      "sha256": "c3231b1ca07048aa8d60575d4222ee3d5e56a6f49eb7d27971817fa732fff992"
+    },
+    {
+      "path": "src/main.tsx",
+      "bytes": 231,
+      "sha256": "5580d48b0fec68698a113d45a640b88d479dc35eb1f4b87c51f67c6cc81cee9b"
+    },
+    {
+      "path": "src/types.ts",
+      "bytes": 10046,
+      "sha256": "729ed5bd185d49aadc5423a985d498230a1534d35a17ce73dd61d5f11f5a47c8"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 508,
+      "sha256": "e93e15c3794e43a117964ea191ae985cbedea70c41d3d82b2e20aa8d07374fe4"
+    },
+    {
+      "path": "vite.config.ts",
+      "bytes": 708,
+      "sha256": "c7b7cc4b3a6b6a08f0a4fb916bb4d4e41804d5767611bce43d4c1ad53a198192"
+    }
+  ]
+}
